@@ -14,8 +14,6 @@ The project displays my knowledge of Python, Object-Oriented Programming, data s
 
 To run the program locally, you need to have run the command `pip install simpleguitk`.
 
-If you are having trouble running the program locally for whatever reason, here is an online IDE containing the program:
-https://py2.codeskulptor.org/#user49_HH4FqCrI0S_5.py
-
+If you are having trouble running the program locally for whatever reason, [here is an online IDE containing the program](https://py2.codeskulptor.org/#user49_HH4FqCrI0S_5.py).
 
 
