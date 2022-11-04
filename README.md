@@ -12,7 +12,7 @@ and score of the number of asteroids destroyed is kept track of. The asteroids a
 The project displays my knowledge of Python, Object-Oriented Programming, data structures, functions, game physics, and UI. 
 
 
-To run the program locally, you need to have run the command 'pip install simpleguitk'.
+To run the program locally, you need to have run the command `pip install simpleguitk`.
 
 If you are having trouble running the program locally for whatever reason, here is an online IDE containing the program:
 https://py2.codeskulptor.org/#user49_HH4FqCrI0S_5.py
