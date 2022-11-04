@@ -2,7 +2,7 @@
 
 Hi! This is a project I created during a summer program in high school.
 
-The idea for this project is gotten from the online course https://www.coursera.org/learn/interactive-python-2.
+The idea for this project is gotten from an [online course](https://www.coursera.org/learn/interactive-python-2).
 I developed the project from a basic template that included art and other assets that were supplied by this online course.
 Moving forward from the basic template, the project is developed entirely by myself.
 
